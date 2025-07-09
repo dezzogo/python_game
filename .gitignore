@@ -1,0 +1,7 @@
+# IDE-specific files
+.idea/
+*.iml
+.vscode/
+venv/
+*.pyc
+__pycache__/
