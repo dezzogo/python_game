@@ -1,4 +1,4 @@
-# HERANÇA
+# HERANÇA (inheritance)
 
 # classe mãe
 class Animal:
